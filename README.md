@@ -1,26 +1,34 @@
 ### Hi there 👋
 
-💬 Contacts
+💬 **Contact Me**  
+[![Email](https://img.shields.io/badge/Email-suren.matinyan.94s@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suren.matinyan.94s@gmail.com)
 
-## 👨‍💻 What I am doing..
+## 👨‍💻 Tech Stack
 
-Programming languages
+**Programming Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-![Typescript](https://camo.githubusercontent.com/9529bc7a56cdb518c4c1a685a8b9d6ae67a585d6a2899ca467ba460e92408a78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![Javascript](https://camo.githubusercontent.com/5ef4311ad92bb7d22b3e113435b4d0f3c31f6bd5aa6c02092a23a318466de0f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3332333333303f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
+**Technologies**  
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-<!--
-**SurenMatinyan/SurenMatinyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
 
-Here are some ideas to get you started:
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+(Lambda, S3, EC2, RDS, CloudFormation, and more)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
