@@ -28,7 +28,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 (Lambda, S3, EC2, RDS, CloudFormation, and more)
 
-## 📈 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurenMatinyan&show_icons=true&theme=radical)](https://github.com/SurenMatinyan)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurenMatinyan&layout=compact&theme=radical)](https://github.com/SurenMatinyan)
